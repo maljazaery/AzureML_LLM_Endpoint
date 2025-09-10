@@ -1,6 +1,6 @@
-# Azure ML vLLM Deployment Scripts
+# Shell Script to deploy LLM AML Online Enpoints
 
-This repository contains automated scripts for deploying vLLM models on Azure Machine Learning with configurable parameters and easy-to-use execution flow.
+This repository contains automated shell scripts for deploying LLM models as Azure Machine Learning Online Endpoint with configurable parameters and easy-to-use execution flow.
 
 ## Included Examples
 
