@@ -2,6 +2,8 @@
 
 This repository contains automated shell scripts for deploying LLM models as Azure Machine Learning Online Endpoint with configurable parameters and easy-to-use execution flow.
 
+https://youtu.be/FluyAN9bnhM
+
 ## Included Examples
 
 - **GPT-OSS Docker and Environment:** See `./AML_env/gpt_oss/` for a sample Dockerfile and environment setup.
