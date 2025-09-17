@@ -1,4 +1,4 @@
-# Shell Script to deploy LLM AML Online Enpoints
+# Shell Script to deploy LLM as AML Online Enpoints
 
 This repository contains automated shell scripts for deploying LLM models as Azure Machine Learning Online Endpoint with configurable parameters and easy-to-use execution flow.
 
